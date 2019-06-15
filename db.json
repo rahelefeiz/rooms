@@ -1,0 +1,113 @@
+{
+  "apartments": [
+    {
+      "id": 1,
+      "carpetArea": 200,
+      "numberOfBedrooms": 3,
+      "numberOfBathrooms": 2,
+      "numberOfBalconies": 1,
+      "apartmentNumber": 12,
+      "apartmentFloorNumber": 1,
+      "address": "jamalzade",
+      "apartmentDescription": null
+    },
+    {
+      "id": 2,
+      "carpetArea": 100,
+      "numberOfBedrooms": 2,
+      "numberOfBathrooms": 1,
+      "numberOfBalconies": 0,
+      "apartmentNumber": 120,
+      "apartmentFloorNumber": 6,
+      "address": "jamalzade jonoobi",
+      "apartmentDescription": null
+    },
+    {
+      "id": 3,
+      "carpetArea": 200,
+      "numberOfBedrooms": 3,
+      "numberOfBathrooms": 2,
+      "numberOfBalconies": 1,
+      "apartmentNumber": 12,
+      "apartmentFloorNumber": 1,
+      "address": "jamalzade 3",
+      "apartmentDescription": null
+    },
+    {
+      "id": 4,
+      "carpetArea": 100,
+      "numberOfBedrooms": 2,
+      "numberOfBathrooms": 1,
+      "numberOfBalconies": 0,
+      "apartmentNumber": 120,
+      "apartmentFloorNumber": 6,
+      "address": "jamalzade jonoobi 4",
+      "apartmentDescription": null
+    },
+    {
+      "id": 5,
+      "carpetArea": 200,
+      "numberOfBedrooms": 3,
+      "numberOfBathrooms": 2,
+      "numberOfBalconies": 1,
+      "apartmentNumber": 12,
+      "apartmentFloorNumber": 1,
+      "address": "jamalzade 3",
+      "apartmentDescription": null
+    },
+    {
+      "id": 6,
+      "carpetArea": 100,
+      "numberOfBedrooms": 2,
+      "numberOfBathrooms": 1,
+      "numberOfBalconies": 0,
+      "apartmentNumber": 120,
+      "apartmentFloorNumber": 6,
+      "address": "jamalzade jonoobi 4",
+      "apartmentDescription": null
+    },
+    {
+      "id": 7,
+      "carpetArea": 200,
+      "numberOfBedrooms": 3,
+      "numberOfBathrooms": 2,
+      "numberOfBalconies": 1,
+      "apartmentNumber": 12,
+      "apartmentFloorNumber": 1,
+      "address": "jamalzade 3",
+      "apartmentDescription": null
+    },
+    {
+      "id": 8,
+      "carpetArea": 100,
+      "numberOfBedrooms": 2,
+      "numberOfBathrooms": 1,
+      "numberOfBalconies": 0,
+      "apartmentNumber": 120,
+      "apartmentFloorNumber": 6,
+      "address": "jamalzade jonoobi 9",
+      "apartmentDescription": null
+    },
+    {
+      "id": 9,
+      "carpetArea": 200,
+      "numberOfBedrooms": 3,
+      "numberOfBathrooms": 2,
+      "numberOfBalconies": 1,
+      "apartmentNumber": 12,
+      "apartmentFloorNumber": 1,
+      "address": "jamalzade 0",
+      "apartmentDescription": null
+    },
+    {
+      "id": 10,
+      "carpetArea": 100,
+      "numberOfBedrooms": 2,
+      "numberOfBathrooms": 1,
+      "numberOfBalconies": 0,
+      "apartmentNumber": 120,
+      "apartmentFloorNumber": 6,
+      "address": "jamalzade jonoobi 2",
+      "apartmentDescription": null
+    },
+  }
